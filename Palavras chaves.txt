@@ -1,0 +1,9 @@
+RNA - Redes neurais artificiais
+
+BI - Business Intelligence
+
+ - Chatbot com inteligência artificiais
+
+NoSQL - Bancos de dados não relacionais
+
+DNN - redes neurais profundas
