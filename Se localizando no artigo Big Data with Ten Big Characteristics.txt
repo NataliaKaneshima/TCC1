@@ -1,0 +1,24 @@
+Sessões:
+- Seção 2 apresenta uma visão geral das características existentes 
+de big data de um perspectiva evolutiva. 
+- A seção 3 propõe e analisa 10 Bigs como as dez grandes características 
+do big data. 
+- Seção 4 examina o inter-relacionamentos entre os 10 Bigs através de 
+um unificado estrutura. As seções finais discutem o trabalho relacionado, 
+futuro instruções e terminar este artigo com algumas observações finais e
+trabalho futuro. 
+
+
+2. UMA PERSPECTIVA EVOLUTIVA SOBRE BIG DATA
+    Esta seção apresenta uma visão geral das características do big data de um
+perspectiva evolutiva.
+    A McKinsey define big data como “os conjuntos de dados cujo tamanho está além
+a capacidade de ferramentas típicas de software de banco de dados para capturar, 
+armazenar, gerenciar e analisar ”[9]. 
+    O Gartner define big data como os “ativos de informação de alto volume, alta velocidade 
+e alta variedade que exigem formas de informação inovadoras e econômicas processamento 
+para melhor percepção e tomada de decisão ”[5]. 
+    Esta definição, por causa de seu recurso de marketing, tem sido usada com mais frequência 
+nas comunidades de analistas e na academia comunidades de pesquisa e desenvolvimento de 
+big data [1].
+
