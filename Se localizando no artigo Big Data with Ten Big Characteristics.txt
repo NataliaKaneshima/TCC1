@@ -22,3 +22,14 @@ para melhor percepção e tomada de decisão ”[5].
 nas comunidades de analistas e na academia comunidades de pesquisa e desenvolvimento de 
 big data [1].
 
+    De uma perspectiva evolutiva, Doug Laney usa 3 Ds: volume de dados, velocidade de dados e 
+variedade de dados para representam as características dos dados no e-commerce em 2001 [10].
+    Mais tarde, esses 3 Ds foram alterados para 3 Vs (volume, velocidade, e variedade) que 
+foram explicadas como três características de big data [11, 12]. Além disso, esses 3 Vs 
+foram estendidos primeiro a 4 Vs como quatro características de big data, adicionando 
+veracidade [13, 14], e então para 5 Vs como cinco características de big data
+(volume, variedade, velocidade, veracidade, valor) [15, 16], finalmente para 10 Vs adicionando 
+outros 5 Vs: validade, variabilidade, local, vocabulário e imprecisão [17]. 
+
+3. 10 GRANDES QUANTO DEZ GRANDES CARACTERÍSTICAS DE BIG DATA 
+3.1 Big Volume
