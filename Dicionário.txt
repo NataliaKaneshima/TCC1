@@ -1,4 +1,23 @@
-insights: compreensão ou solução de um problema pela súbita captação mental dos elementos e relações adequados.
+ - Insights: compreensão ou solução de um problema pela súbita captação mental dos elementos e relações adequados.
 
-Zetabytes: é uma unidade de informação ou memória. Ele corresponde a 1.000.000.000.000.000.000.000 (1021) ou 
+ - Zetabytes: é uma unidade de informação ou memória. Ele corresponde a 1.000.000.000.000.000.000.000 (10^21) ou 
 1180591620717411303424 (270) Bytes, dependendo do contexto.
+
+ - Exabytes: Um exabyte é 10^18 ou 1,000,000,000,000,000,000 bytes. Um exabyte (abreviado "EB") é igual a 1,000 petabytes e precede o zettabyte unidade de medida
+
+ - Petabytes: O petabyte é um múltiplo da unidade de informação byte. O prefixo peta indica a décima quinta potência de 1000 e significa 10¹⁵ no Sistema Internacional de Unidades. O símbolo do petabyte é PB. 1 PB = 1000000000000000B = 10¹⁵bytes = 1000terabytes.
+
+ - Veracidade: atributo ou qualidade do que é verdadeiro ou corresponde à verdade; veridicidade, verdade.
+
+ - Dados Estruturados: Os dados do tipo estruturados tem um padrão pré definido, uma estrutura bem definida e rígida. Essa estrutura é pensada antes mesmo da existência do dado. Um exemplo mais típico é um banco de dados, onde os dados podem ser organizados através de linhas e colunas. 
+
+ - Dados não estruturados: Ao contrário dos dados estruturados, os dados não estruturados possuem uma estrutura totalmente inversa e não podem ser organizados em tabelas.
+Esse tipo de dados não tem uma estrutura bem definida, não tem um padrão pré-estabelecido. São dados flexíveis e dinâmicos, podendo ser compostos por diversos elementos diferentes dentro um todo.
+Um exemplo simples de dados não estruturados são os dados de redes sociais. Esse é um típico exemplo, pelo grande número de textos, imagens, vídeos e diversos outros que são criados diariamente a partir do uso das tecnologias.
+
+ - Dados Semiestruturados: Temos uma outra categoria ainda: os dados semiestruturados. Eles são uma mistura dos dois acima, tendo uma representação estrutural heterogênea. Possuem algumas características definidas, sendo parcialmente estruturados, mas não se limitam a uma estrutura rígida.
+Os esquemas para dados semiestruturados são usualmente definidos após a existência dos dados, utilizando como base buscas e análises de suas estruturas particulares, similaridades e diferenças.
+Algumas propriedades de metadados ou tags semânticas são utilizadas para torná-los mais gerenciáveis, no entanto, ainda contêm alguma variabilidade e inconsistência.
+Em banco de dados semiestruturado, as informações não são guardadas em tabelas e sim em outras formas, como o XML por exemplo.
+
+ - 

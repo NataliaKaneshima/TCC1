@@ -1,5 +1,5 @@
-Autor:              Ano:
-Título:             Qualis:
+Autor: Sun          Ano: 2018
+Título: Big Data with Ten Big Characteristics            Qualis:
 Resenha:
 
 
