@@ -1,7 +1,6 @@
 Autor: Sun          Ano: 2018
 Título: Big Data with Ten Big Characteristics            Qualis:
-Resenha:
-
+Resenha: Ele fala sobre os 10 big e seu relacionamentos
 
 Autor:              Ano:
 Título:             Qualis:
