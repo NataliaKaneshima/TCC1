@@ -20,4 +20,12 @@ Os esquemas para dados semiestruturados são usualmente definidos após a exist�
 Algumas propriedades de metadados ou tags semânticas são utilizadas para torná-los mais gerenciáveis, no entanto, ainda contêm alguma variabilidade e inconsistência.
 Em banco de dados semiestruturado, as informações não são guardadas em tabelas e sim em outras formas, como o XML por exemplo.
 
+ - Insightspersonalizados: você cria condições que detectam alterações importantes nos seus dados.
+
+ - Analytics Intelligence: é um conjunto de recursos que usa o aprendizado de máquina e as condições que você configurar para ajudar a entender seus dados e realizar ações mais adequadas.
+
+ - Malware: Um código malicioso, programa malicioso, software nocivo, software mal-intencionado ou software malicioso, é um programa de computador destinado a infiltrar-se em um sistema de computador alheio de forma ilícita, com o intuito de causar alguns danos, alterações ou roubo de informações.
+
+ - Malware Polimórfico: tem um “núcleo” que sempre faz a mesma coisa, não importa quantas vezes ele mude. Ele sempre executa as mesmas ações e sempre ataca da mesma maneira, mas continua transformando o resto do código para manter seus rastros atualizados.
+
  - 

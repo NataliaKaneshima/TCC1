@@ -1,3 +1,4 @@
 1. Compreender melhor o Big Service
 2. Compreender melhor o Big Value
-3. 
+3. Big data não é estruturados, semiestruturados
+ou estruturado
