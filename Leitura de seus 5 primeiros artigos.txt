@@ -1,14 +1,15 @@
 Autor: Sun          Ano: 2018
 Título: Big Data with Ten Big Characteristics            Qualis:
-Resenha: Ele fala sobre os 10 big e seu relacionamentos
+Resenha: Ele fala sobre os 10 big e seu relacionamentos.
 
 Autor: Emmanuel Masabo   Ano: 2018
 Título: Big Data: Deep Learning for detecting Malware     Qualis:
-Resenha: Usa tecnicas do Big Data para detectar Malware
+Resenha: Usa tecnicas do Big Data para detectar Malware.
 
-Autor:              Ano:
-Título:             Qualis:
-Resenha:
+Autor: Andreu-Perez      Ano: 2015
+Título: Big Data for Health
+Qualis:
+Resenha: Ele explica como o Big Data é tratado na área da saúde.
 
 
 Autor:              Ano:
