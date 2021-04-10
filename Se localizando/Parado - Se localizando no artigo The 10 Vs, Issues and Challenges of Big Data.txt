@@ -1,0 +1,15 @@
+I. INTRODUCTION
+
+    O crescimento da geração de dados mostrou o significativo tendência ascendente rapidamente. Em 2010, nosso globo criou mais de 1ZB de dados e a geração de dados aumentou para 7ZB em 2014 [1].
+International Data Corporation (IDC), uma empresa de pesquisa de tecnologia, estimou que o aumento de dados está dobrando a cada dois anos. A cada segundo, mais dados na Internet criam do que estava armazenado em toda a Internet apenas 20 anos atrás [2].
+    Eles estão mudando de dados textuais para dados mais ricos incluindo imagens, vídeos e mapas interativos, bem como metadados associados, como informações de geolocalização e carimbos de hora / data [3].
+
+   *Neste artigo, uma ampla gama desses desafios
+e as oportunidades foram descritas. O resto do papel
+é organizado como:
+      - Seção II desenhou um roteiro para o Big Dados. 
+      - A Seção III explorou o status atual do Big Data.        - A Seção IV enfocou o tema deste artigo e escreveu as características, problemas e desafios dos 10 Vs de Big Data.*
+
+II.BIG DATA ROAD MAP
+    parei aki por raiva
+    

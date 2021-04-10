@@ -1,0 +1,250 @@
+Sessões:
+- Seção 2 apresenta uma visão geral das características existentes 
+de big data de um perspectiva evolutiva. 
+- A seção 3 propõe e analisa 10 Bigs como as dez grandes características 
+do big data. 
+- Seção 4 examina o inter-relacionamentos entre os 10 Bigs através de 
+um unificado estrutura. As seções finais discutem o trabalho relacionado, 
+futuro instruções e terminar este artigo com algumas observações finais e
+trabalho futuro. 
+
+
+2. UMA PERSPECTIVA EVOLUTIVA SOBRE BIG DATA
+    Esta seção apresenta uma visão geral das características do big data de um
+perspectiva evolutiva.
+    A McKinsey define big data como “os conjuntos de dados cujo tamanho está além
+a capacidade de ferramentas típicas de software de banco de dados para capturar, 
+armazenar, gerenciar e analisar ”[9]. 
+    O Gartner define big data como os “ativos de informação de alto volume, alta velocidade 
+e alta variedade que exigem formas de informação inovadoras e econômicas processamento 
+para melhor percepção e tomada de decisão ”[5]. 
+    Esta definição, por causa de seu recurso de marketing, tem sido usada com mais frequência 
+nas comunidades de analistas e na academia comunidades de pesquisa e desenvolvimento de 
+big data [1].
+
+    De uma perspectiva evolutiva, Doug Laney usa 3 Ds: volume de dados, velocidade de dados e 
+variedade de dados para representam as características dos dados no e-commerce em 2001 [10].
+    Mais tarde, esses 3 Ds foram alterados para 3 Vs (volume, velocidade, e variedade) que 
+foram explicadas como três características de big data [11, 12]. Além disso, esses 3 Vs 
+foram estendidos primeiro a 4 Vs como quatro características de big data, adicionando 
+veracidade [13, 14], e então para 5 Vs como cinco características de big data
+(volume, variedade, velocidade, veracidade, valor) [15, 16], finalmente para 10 Vs adicionando 
+outros 5 Vs: validade, variabilidade, local, vocabulário e imprecisão [17]. 
+
+3. 10 GRANDES QUANTO DEZ GRANDES CARACTERÍSTICAS DE BIG DATA 
+3.1 Big Volume
+    O grande volume de big data reflete o tamanho do conjunto de dados, que
+é normalmente em exabytes (EB) ou ZB [9], embora muitos, como um criança, pode considerar que 10 é grande como um inteiro [18]. Nos dias de hoje, muitas empresas baseadas em dados estão trabalhando com petabytes (PB) de
+dados diários. O Google processa mais de 20 PB de dados diariamente. Walmart coleta mais de 2,5 PB de dados não estruturados de seu 1 milhão clientes a cada hora. Repositórios de Big Data para geração futura sistemas paralelos e distribuídos atualmente excedem EB e são aumentando em uma velocidade rápida em tamanho. O volume de big data tem aumentou de EB ou ZB [1].
+
+3.2 Big Velocity
+    A grande velocidade está relacionada ao throughput e latência dos dados [13]. Pra taxa de transferência, grande velocidade significa que em uma grande velocidade, os dados em e fora dos sistemas em rede em tempo real [19, 3]. Em outro palavras, é a alta taxa de dados e informações fluindo para e fora de sistemas nterfuncionados com tempo real [17, 5].
+    Grande velocidade de big data é mais importante do que grande volume para muitas aplicações do mundo real [12]. Latência é outra medida de velocidade. Baixa latência é o requisito das empresas modernas e indivíduos. Por exemplo, Turn (www.turn.com) é conduzindo suas análises em 10 milissegundos para colocar anúncios em plataformas de publicidade online [13]. Da IBM InfoSphere Streams foi usado com sucesso para baixa latência, análises em tempo real [13].
+
+3.3 Big Variety
+    Grande variedade significa grande diversidade ou grandes tipos diferentes de dados fontes com diferentes estruturas de onde veio, e o tipos de dados disponíveis para todos [19, 1, 20]. Big data pode ser classificados em três tipos: estruturado, semiestruturado e não estruturado em um nível superior. Os dados armazenados em relacional sistemas de banco de dados como Oracle são estruturados. Os dados disponíveis na Web não são estruturados. 80% dos dados mundiais são não estruturado [1, 13]. A grande variedade existe nos dados do Rede. Blogs e tweets nas redes sociais não são dados estruturados, porque eles contêm uma grande quantidade de palavras de gíria, com uma mistura de línguas em um ambiente multiétnico e multilíngue [13].
+
+3.4 Big Veracity
+    Grande veracidade refere-se à precisão, verdade e veracidade de grandes
+dados. O Veracity foi apresentado por pesquisadores da IBM como o 4º V para caracterizar big data [11]. A realidade é que existem grandes
+ambigüidade, incompletude, incerteza de big data [11] [9]. Esta pode ser a razão pela qual a vagueza foi considerada como um de dez desafios de big data [9]. Precisão e confiabilidade são menores
+controlável para muitas formas de big data, por exemplo, Twitter posta uma série de tweets com hashtags, abreviações, erros de digitação e
+discurso coloquial. A grande veracidade é uma grande característica do big data, isso é particularmente verdadeiro em análises de big data para tomada de decisões de negócios [20]. Portanto, para obter grande veracidade, temos que usar tecnologias inteligentes para remover o ambíguo, dados incompletos e incertos.
+    A lógica difusa e os conjuntos difusos desenvolveram métodos significativos
+e técnicas para lidar com a ambigüidade e incompletude dos dados e, portanto, eles vão desempenhar um papel importante na superação de grandes
+ambigüidade e incompletude de big data [21].
+    
+3.5 Big Intelligence
+    Grande inteligência refere-se à inteligência de big data ou baseada em big data inteligência, que pode ser definida como um conjunto de ideias, tecnologias,
+sistemas e ferramentas que podem imitar e aumentar o ser humano inteligência relacionada ao gerenciamento e processamento de big data [18].
+Por exemplo, métodos inteligentes para pesquisar big data, visualizar o conhecimento extraído de big data pertence ao big data inteligência [21].
+Grande inteligência será desenvolvida como uma parte importante de grande computação de dados [6]. WIFI grátis global [22] é uma grande inteligência, porque atende a grande expectativa de bilhões de pessoas [18].
+
+3.6 Big Analytics
+    Big analytics é uma breve representação de big data analytics ou big análise baseada em dados [23] [18]. Big analytics pode ser definido como o processo de coleta, organização e análise de big data para descobrir e visualizar padrões, conhecimento e inteligência como
+bem como outras informações dentro do big data para apoiar tomada de decisão [24]. Os principais componentes das grandes análises incluem grandes análises descritivas, grandes análises preditivas e grandes
+analítica prescritiva [18] [6]. Por exemplo, grande prescrição a análise pode ser usada para fornecer uma estratégia de marketing ideal para uma empresa de comércio eletrônico [18].
+
+3.7 Big Infrastructure
+    Infraestrutura refere-se a estruturas, sistemas e instalações que atendem um país, cidade ou área, incluindo os serviços e instalações necessário para que sua economia funcione [26]. Grande infraestrutura,
+abreviado de infraestrutura de big data refere-se a todos os estruturas, tecnologias, sistemas, plataformas e instalações servindo o processamento de big data em um país, cidade ou região.
+    Atualmente, o ecossistema Apache Hadoop foi onsiderado como um parte importante da grande infraestrutura [1]. Grande infraestrutura é um
+fator decisivo para a utilidade de big data com aplicativos, refletindo o nível de pesquisa nacional de big data e desenvolvimento.
+
+3.8 Big Service
+    Big services são serviços orientados a big data ou baseados em big data Serviços. Pode fornecer serviços a pelo menos centenas de milhões de pessoas. Por exemplo, serviços de infraestrutura de big data, nuvem
+serviços, serviços móveis, grandes serviços analíticos [18], social os serviços de rede são grandes serviços.
+    Grandes serviços, a web de serviços e a Internet de serviços (IoS) são intercambiáveis. O IoS é um grande serviço que cobre todos os serviços na Internet baseados em big data. Por exemplo, os serviços de armazenamento online são uma espécie de grandes serviços. Grandes serviços são uma fronteira emergente para inovações, competências e melhorando o desempenho empresarial de governos, organizações e empresas, bem como indivíduos.
+
+3.9 Big Value
+    O grande valor indica a importância e o contexto do big data. Isto caracteriza o valor do big business e o potencial do big data para transformar uma organização para ter mais competitividade no plataforma global [17]. Big data tem um valor extremamente grande para
+aumentando a produtividade, eficiência e receitas, reduzindo custos e redução do risco nos negócios e gestão [3, 20] [16]. Por exemplo, big data e big data analytics trouxeram grandes valor para o Facebook, Google, Amazon e os tornou o principais empresas do mundo [27, 28].
+    Grande valor também implica que big data traz grande valor social. O grande valor social significa que o big data tem revolucionado o sociedade em termos de trabalho, vida e pensamento [29].
+
+3.10 Big Market
+    Grande mercado refere-se ao mercado orientado por big data. Grande mercado inclui mercado de tecnologias, sistemas, plataformas, ferramentas de big data e
+Serviços. De acordo com a pesquisa do IDC, a tecnologia de big data e o mercado de serviços deve crescer em um período de cinco anos taxa de crescimento anual (CAGR) de mais de 28% de US $ 260,3 milhões em 2014 para US $ 711,2 milhões em 2018 [30].
+    O grande mercado atrai os CEOs de grandes empresas para fazer grandes decisões para desenvolver big data e tecnologias relacionadas. Pra Por exemplo, o Gartner prevê que 30% do novo crescimento da receita de soluções específicas do setor incluirá big data e IA tecnologia em 2021 [4].
+
+4 INTERRELATIONSHIPS AMONG 10 BIGS OF BIG DATA
+    As inter-relações não lineares entre esses 10 grandes
+características de big data podem ser representadas como uma estrutura, ilustrado na Figura 1. Esta estrutura consiste em três níveis: a nível fundamental, nível tecnológico e socioeconômico nível.
+    No nível fundamental, existem 4 grandes: grande volume, grande velocidade, grande variedade, grande veracidade, são quatro fundamentais características do big data.
+    Os principais provedores de serviços neste nível incluem computação cientistas e provedores de serviços em nuvem, incluindo Amazon, Google, Facebook e Tableau [6]. Os principais solicitantes de serviço neste nível incluem todos que podem acessar a Internet.
+    No nível tecnológico, existem 3 grandes: grande inteligência,grandes análises e grande infraestrutura. Eles são os três características tecnológicas do big data. Esses 3 grandes fornecem soluções e tecnologias inteligentes para enfrentar os desafios surgindo dos 4 grandes do nível fundamental. O inteligente soluções e tecnologias incluem MapReduce NoSQL tecnologia [7], MPP (Massively Parallel Processing), na memória tecnologias de banco de dados [32, 33] e analítica aumentada [6].
+Apache Spark é uma plataforma de análise de big data popular para um número de empresas [33, 34]
+    No nível socioeconômico, existem 3 grandes: grande serviço, grande valor e grande mercado. Eles são os três socioeconômicos características do big data. O desenvolvimento dramático de grandes inteligência, grande análise e grande infraestrutura trazem grande serviço, grande valor [36] e grande mercado [37] [4] para a sociedade.
+    As setas com traço representam aquele grande serviço, grande valor e o grande mercado trará grandes impactos nas 4 grandes características fundamentais do big data no nível inferior. Pra por exemplo, aumentará o grande volume de dados de petabyte nível para nível de zetabyte. Vai melhorar a grande velocidade de grandes dados na Internet. Isso leva a uma maior variedade e veracidade de grandes dados. Um do outro lado, as setas com linha tracejada e outro flechas formam um ciclo de e para grande volume, grande velocidade, grande variedade e grande veracidade por meio de grande serviço, grande valor e grande mercado para agilizar a pesquisa e o desenvolvimento de big data.
+
+5 DISCUSSION AND FUTURE DIRECTIONS 
+    Este papel tem propôs os 10 Bigs como dez grandes características de big data e discutiu suas inter-relações a partir de um serviço orientado perspectiva. Os 10 grandes ainda não foram totalmente abordados em a literatura.
+    Duas direções futuras mais importantes desta pesquisa são do seguinte modo. 1. Usaremos essas dez grandes características como o elementos de big data para desenvolver sistemas de big data, inteligentes
+sistemas analíticos e, em seguida, fornecer big data e análises serviços a organizações e indivíduos. 2. Usaremos o elementos de big data para examinar os impactos de big data, big análises e grande inteligência em negócios, gestão,marketing, indústria e governança, bem como a sociedade.
+
+6 CONCLUSION
+    Este artigo revelou dez grandes características de big data e explorou seus inter-relacionamentos não lineares através da apresentação de um quadro unificado. A estrutura cobre os 10 Bigs de Big Data e seus inter-relacionamentos não lineares com base em três níveis:
+nível fundamental, nível tecnológico e socioeconômico
+nível. Este documento examinou cada nível da estrutura proposta de uma perspectiva orientada a serviços.
+
+7 REFERENCES
+[1] B. Kumar, "An encyclopedic overview of ‘big data’ 
+analytics," International Journal of Applied Engineering 
+Research, vol. 10, no. 3, pp. 5681-5705, 2015. 
+[2] McKinsey, "The digital tipping point: McKinsey Global 
+Survey results," June 2014. [Online]. Available: 
+http://www.mckinsey.com/insights/business_technology/
+the_digital_tipping_point_mckinsey_global_survey_resu
+lts. [Accessed 1 7 2014].
+[3] C. P. Chen and C.-Y. Zhang, "Data-intensive 
+applications, challenges, techniques and technologies: A 
+survey on Big Data," Information Sciences, vol. 275 , p. 
+314–347, 2014. 
+[4] D. Laney and A. Jain, "100 Data and Analytics 
+Predictions Through," 20 June 2017. [Online]. Available: 
+https://www.gartner.com/events-na/data-analytics/wpcontent/uploads/sites/5/2017/10/Data-and-AnalyticsPredictions.pdf. [Accessed 04 August 2018].
+[5] Gartner, "Big data," 2016. [Online]. Available: 
+http://www.gartner.com/it-glossary/big-data/.
+[6] C. Howson, R. L. Sallam and J. L. Richa, "Magic 
+Quadrant for Analytics and Business Intelligence 
+Platforms," 26 Feb 2018. [Online]. Available: 
+www.gartner.com. [Accessed 16 Aug 2018].
+[7] C. Coronel and S. Morris, Database Systems: Design, 
+Implementation, and Management (11th edition), 
+Boston: Cengage Learning, 2015. 
+[8] Z. Sun and P. P. Wang, "Big Data, Analytics and 
+Intelligence: An Editorial Perspective," Journal of New 
+Mathematics and Natural Computation, vol. 13, no. 2, p. 
+75–81, 2017. 
+[9] K. Borne, "Top 10 Big Data Challenges – A Serious 
+Look at 10 Big Data V’s," April 2014. [Online]. 
+Available: https://www.mapr.com/blog/top-10-big-datachallenges-%E2%80%93-serious-look-10-big-datav%E2%80%99s.
+[10] A. McAfee and E. Brynjolfsson, "Big data: The 
+management revolution," Harvard Business Review, pp. 
+61-68, 2012. 
+[11] IBM, "The Four V’s of Big Data," 2015. [Online]. 
+Available: 
+http://www.ibmbigdatahub.com/infographic/four-vsbigdata.
+[12] McKinsey, "Big data: The next frontier for innovation, 
+competition, and productivity," May 2011. [Online]. 
+Available: http://www.mckinsey.com/businessfunctions/business-technology/our-insights/big-data-thenext-frontier-for-innovation.
+[13] D. Laney, "3D data management: controlling data 
+volume, velocity, and variety, META Group, Tech. 
+Rep.," 2001. [Online]. Available: 
+http://blogs.gartner.com/douglaney/files/2012/01/ad949-3D-Data-Management-5
+Controlling-Data-Volume-Velocity-and-Variety.pdf. 
+[Accessed 27 10 2015].
+[14] C. Tsai, C. Lai, H. Chao and A. Vasilakos, "Big data 
+analytics: a survey," Journal of Big Data, vol. 2, pp. 31-
+62, 2015. 
+[15] A. Sathi, Big data analytics: Disruptive technologies for 
+changing the game, Boise, ID, USA: MC Press: IBM 
+Corporation, 2013. 
+[16] DataCom, "DataCom 2015 International Conference on 
+Big Data Intelligence and Computing," 3 11 2015. 
+[Online]. Available: 
+http://www.wikicfp.com/cfp/servlet/event.showcfp?even
+tid=46304&copyownerid=22598.
+[17] F.-Y. Wang, "A big-data perspective on AI: Newton, 
+Merton, and Analytics Intelligence," IEEE Intelligent 
+Systems, Sept/Oct, pp. 2-4, 2012 . 
+[18] Z. Sun , P. Wang and K. Strang, "A mathematical theory 
+of big data," IEEE Transactions on Knowledge and Data 
+Engineering , p. Under Review, 2017. 
+[19] J. Betser and D. Belanger, "Architecting the enterprise 
+with big data analytics," in Big Data and Business 
+Analytics, Boca Raton, FL, CRC Press , 2013, pp. 1-20.
+[20] D. Loshin, Big Data Analytics: From Strategic Planning 
+to Enterprise Integration woth Tools, Techniques, 
+NoSQL and Graph, Amsterdam: Elsevier , 2013. 
+[21] Z. Sun, L. Sun and K. Strang, "Big Data Analytics 
+Services for Enhancing Business Intelligence," Journal 
+of Computer Information Systems (JCIS), vol. 58, no. 2, 
+pp. 162-169 , 2018. 
+[22] M. Kantardzic, Data Mining: Concepts, Models, 
+Methods, and Algorithms, Hoboken, NJ: Wiley & IEEE 
+Press, 2011. 
+[23] S. Russell and P. Norvig, Artificial Intelligence: A 
+Modern Approach (3rd edition), Prentice Hall, 2010. 
+[24] M. Payton, "http://metro.co.uk/2015/06/25/googlewants-to-bring-free-wifi-to-the-world-and-its-startingnow-5265352/," 25 6 2015. [Online]. Available: 
+http://metro.co.uk/2015/06/25/google-wants-to-bringfree-wifi-to-the-world-and-its-starting-now-5265352/. 
+[Accessed 12 8 2016].
+[25] M. Minelli, M. Chambers and A. Dhiraj, Big Data, Big 
+Analytics: Emerging Business Intelligence and Analytic 
+Trends for Today's Businesses, Wiley & Sons , 2013. 
+[26] Z. Sun, H. Zou and K. Strang, "Big Data Analytics as a 
+Service for Business Intelligence," in I3E2015, LNCS 
+9373, Berlin, 2015. 
+[27] N. Henke and J. Bughin, "The Age of Analytics: 
+Competing in a Data Driven World," December 2016. 
+[Online]. 
+[28] TrendingStock, "The Top 12 Tech Companies Who Are 
+Changing Society," June 2018. [Online]. Available: 
+https://trendingstock.today/the-top-12-tech-companieswho-are-changing-society. [Accessed 09 September 
+2018].
+[29] Wikipedia, "Infrastructure," May 2011. [Online]. 
+Available: https://en.wikipedia.org/wiki/Infrastructure. 
+[Accessed 20 7 2016].
+[30] D. Court, "Getting big impact from big data," January 
+2015. [Online]. Available: 
+http://www.mckinsey.com/insights/business_technology/
+getting_big_impact_from_big_data. [Accessed 23 6 
+2015].
+[31] N. Meyersohn, "Facebook's stock drops after Zuckerberg 
+apologizes," 22 3 2018. [Online]. Available: 
+http://money.cnn.com/2018/03/22/news/companies/faceb
+ook-stock/index.html?iid=EL. [Accessed 26 3 2018].
+[32] V. Mayer-Schoenberger and K. Cukier, Big Data: A 
+Revolution that Will Transform How We Live, Work, 
+and Think, Houghton Mifflin Harcourt Publishing 
+Company, 2013. 
+[33] S. Parker and A. T. Hira, "Australia Reaches a Tipping 
+Point for Big Data Adoption, Says IDC Australia," 23 6 
+2015. [Online]. Available: 
+http://www.idc.com/getdoc.jsp?containerId=prAU25707
+715.
+[34] M. P. Papazoglou and D. Georgakopoulos, "Serviceorented computing," The Communications of the ACM, 
+vol. 46, no. 10, pp. 25-28, 2003. 
+[35] K. Bakshi, "Technologies for Big Data," in Big Data 
+Management, Technologies, and Applications, IGIGlobal, 2014, pp. 1-22.
+[36] Tableau, "Top 8 Trends for 2016: Big Data," 2015. 
+[Online]. Available: www.tableau.com/Big-Data.
+[37] C. K. Reddy, "A survey of platforms for big data 
+analytics," Journal of Big Data (Springer), vol. 1, no. 8, 
+pp. 1-20, 2014. 
+[38] Z. Sun, K. Strang and J. Yearwood, "Analytics service 
+oriented architecture for enterprise information systems," 
+in Proceedings of iiWAS2014, CONFENIS 2014, 4 - 6 
+Dec 14, Hanoi, 2014. 
+[39] M. Shirer and J. Goepfert, "Worldwide Big Data and 
+Business Analytics Revenues Forecast to Reach $187 
+Billion in 2019," 23 05 2016. [Online]. Available: 
+http://www.idc.com/getdoc.jsp?containerId=prUS41306
+516.
+[40] IDC, "Big Data & Analytics," 2015. [Online]. Available: 
+https://www.idc.com/prodserv/4Pillars/bigdata. 
+[Accessed 1 8 2015].
+[41] N. E. Oweis and et al, "A Survey on Big Data, Mining: 
+(Tools, Techniques, Applications and Notable Uses)," in 
+Intelligent Data Analysis and Applications, Berlin, 
+Springer International Publishing, 2015. 
+[42] H. Zimmermann, Fuzzy set theory and its applications
